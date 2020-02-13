@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 書豪的投資小天地</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on 書豪的投資小天地</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 00:56:26 -0500</lastBuildDate>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 10 Feb 2020 00:56:26 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Fri, 07 Feb 2020 00:56:26 -0500</pubDate>
+      <title>測試目錄</title>
+      <link>/posts/book_index/</link>
+      <pubDate>Mon, 10 Feb 2020 00:56:26 -0500</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>/posts/book_index/</guid>
+      <description>預計一週一篇，一年完成所有內容 前言：系列大綱 一. 投資的重要性 投資的重要性 - 主動與被動收入 複利與通貨膨脹 當自己人生的掌舵手 買股票很容易 培養財務智商 二. 為何選擇股票這項商品＆入場前的必備工作 報酬與風險 平均值 / 標準差 為何選擇股票這項商品（比較各商品２０年報酬差異） 資金門檻低 報酬屌打債券</description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://example.org/posts/book_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Fri, 07 Feb 2020 00:56:26 -0500</pubDate>
       
-      <guid>http://example.org/posts/book_index/</guid>
-      <description>預計一週一篇，一年完成所有內容
-前言：系列大綱
-一. 投資的重要性
- 投資的重要性 - 主動與被動收入 複利與通貨膨脹 當自己人生的掌舵手  買股票很容易 培養財務智商    二. 為何選擇股票這項商品＆入場前的必備工作
- 報酬與風險  平均值 / 標準差   為何選擇股票這項商品（比較各商品２０年報酬差異）  資金門檻低 報酬屌打債券定存共同基金 （？）   入場前的必備工作（選卷商開帳戶）  三 進股市的目的和期待－投資人的類型：存股派／波段操作／價值投資者
- 存股派／波段操作／價值投資者  五 存股派
- 什麼是殖利率？ 適合存股的股票類型 存股的買進時機和策略 Etf存股（0050 0056) 實際案例  六 價值投資者
- 價值與價格 價值投資的股票類型－景氣循環股 ／資產股／成長股／轉機股 實際案例  七 波段操作
- 波段操作的核心－股價波動 消息面與投資人心裡 波段操作的實際案例  八 分析並挑選你的第一支股票
- 三大門派  基本面 技術面 籌碼面   風險控管  資金 槓桿 價位    九 衍伸性金融商品</description>
+      <guid>/posts/my-first-post/</guid>
+      <description></description>
     </item>
     
   </channel>
